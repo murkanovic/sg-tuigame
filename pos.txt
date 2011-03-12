@@ -1,0 +1,2 @@
+linnainfo x:234 y:34 w:1451 h:672,40
+masks x:100 y:26 w:1530 h:723
